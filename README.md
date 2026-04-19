@@ -17,7 +17,7 @@ Photo of the Light
 
 Total Assembly
 <img width="1671" height="864" alt="Screenshot 2026-04-03 125101" src="https://github.com/user-attachments/assets/1b9fefbd-ecc2-4f0e-8d65-c2b3faeb747a" />
-<img width="1455" height="902" alt="Screenshot 2026-04-03 124756" src="https://github.com/user-attachments/assets/c1596d06-f2d3-4103-a306-c9e69e808e80" />
+<img width="1442" height="800" alt="Screenshot 2026-04-03 125122" src="https://github.com/user-attachments/assets/865d7183-72b9-4521-8bab-f534567b9208" />
 
 
 Everything is to be 3D Printed, except for the grow light that I already own.
