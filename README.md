@@ -1,5 +1,5 @@
 # T0UCH1NG_GR455
-This project is a self-watering desktop planter using a grow light, water reservoir, and a floating flag indicator that shows the water level. It’s designed to plant real grass while requiring less maintenance, with a simple system that feeds water from the bottom into the soil.
+This project is a self-watering desktop planter using a grow light, water reservoir, and a floating flag indicator that shows the water level. It’s designed to plant/grow real grass while requiring less maintenance, with a simple system that feeds water from the bottom into the soil.
 
 I made this project because my friend told me to go outside and touch grass. The idea of “touching grass” is usually a joke, so I wanted to turn it into something real.  Now you will never have to leave the house when someone tells you to go touch grass!
 
