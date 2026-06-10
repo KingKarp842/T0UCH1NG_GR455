@@ -19,6 +19,10 @@ Total Assembly
 <img width="1671" height="864" alt="Screenshot 2026-04-03 125101" src="https://github.com/user-attachments/assets/1b9fefbd-ecc2-4f0e-8d65-c2b3faeb747a" />
 <img width="1442" height="800" alt="Screenshot 2026-04-03 125122" src="https://github.com/user-attachments/assets/865d7183-72b9-4521-8bab-f534567b9208" />
 
+Finished Product
+<img width="550" height="551" alt="Screenshot 2026-05-06 at 9 02 10 PM" src="https://github.com/user-attachments/assets/01090582-bb5d-43ba-bbd5-71af31ae924d" />
+<img width="4032" height="3024" alt="grass2" src="https://github.com/user-attachments/assets/5a19ab3e-81de-4dcd-a778-850721e22b07" />
+
 
 Everything is to be 3D Printed, except for the grow light that I already own.
 https://shop.jeancard.com/products/smart-calotte-grow-light%EF%BD%9Cleafn-joy?locale=en
